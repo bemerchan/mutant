@@ -1,0 +1,17 @@
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/MutantIdentifier.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/DnaEntity.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/Diagonal.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/MatchFinder.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/DNA.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/repository/DnaRepository.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/DnaApisApplication.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/exception/DnaException.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/Vertical.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/dto/DnaRequest.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/controller/DnaController.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/Horizontal.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/InvertedDiagonal.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/dto/StatisticsResponse.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/domains/LineTraverser.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/service/DnaService.java
+/Users/emerchan/Documents/Brayan/dna/src/main/java/co/com/dna/service/impl/DnaServiceImpl.java
